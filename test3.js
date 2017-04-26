@@ -13,3 +13,6 @@ console.log('i kolejne zmiany')
 
 //KOMETARZE OOOOO
 let ooooo = 'oooooo'.bold
+
+////dsaczxdsa
+/**//* */
